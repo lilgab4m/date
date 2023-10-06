@@ -18,3 +18,6 @@ if ($date1 > $date2)
 echo "$date1 é  mais antigo que $date2";
 
 ?>
+
+
+
